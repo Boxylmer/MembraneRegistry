@@ -1,0 +1,6 @@
+name = "MembraneRegistry"
+uuid = "a1e72545-5e55-4276-afba-a441a557fcb5"
+repo = "https://github.com/Boxylmer/MembraneRegistry"
+description = ""
+
+[packages]
