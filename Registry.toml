@@ -5,4 +5,5 @@ description = ""
 
 [packages]
 11a4bec2-2c27-4554-8fe6-a2de72ffe064 = { name = "MembraneEOS", path = "M/MembraneEOS" }
+44adabc6-386d-4db0-bb6e-0f7b06129544 = { name = "SorptionModels", path = "S/SorptionModels" }
 a9449b16-1c3f-48ab-aa2c-0b9c6d97beee = { name = "MembraneBase", path = "M/MembraneBase" }
