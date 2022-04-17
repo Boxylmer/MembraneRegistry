@@ -9,3 +9,7 @@ Revise = "295af30f-e4ad-537b-8983-00126c2a3abe"
 
 ["0.1.3-0"]
 StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
+
+["0.1.6-0"]
+DelimitedFiles = "8bb1440f-4735-579b-a4ab-409b98df4dab"
+XLSX = "fdbf4ff8-1666-58a4-91e7-1b58723a45e0"
