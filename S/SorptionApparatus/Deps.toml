@@ -5,5 +5,8 @@ MembraneEOS = "11a4bec2-2c27-4554-8fe6-a2de72ffe064"
 SorptionModels = "44adabc6-386d-4db0-bb6e-0f7b06129544"
 XLSX = "fdbf4ff8-1666-58a4-91e7-1b58723a45e0"
 
+["0.2.19-0"]
+ProgressMeter = "92933f4c-e287-5a05-a399-4b506db050ca"
+
 ["0.2.5-0"]
 LocalRegistry = "89398ba2-070a-4b16-a995-9893c55d93cf"
