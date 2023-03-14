@@ -12,3 +12,6 @@ StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
 MembraneBase = "a9449b16-1c3f-48ab-aa2c-0b9c6d97beee"
 ProgressMeter = "92933f4c-e287-5a05-a399-4b506db050ca"
 XLSX = "fdbf4ff8-1666-58a4-91e7-1b58723a45e0"
+
+["0.1.8-0"]
+LocalRegistry = "89398ba2-070a-4b16-a995-9893c55d93cf"
