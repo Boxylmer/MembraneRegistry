@@ -5,6 +5,7 @@ description = ""
 
 [packages]
 11a4bec2-2c27-4554-8fe6-a2de72ffe064 = { name = "MembraneEOS", path = "M/MembraneEOS" }
+1f25b7cf-f23e-4d96-9cc8-529206d1bcdc = { name = "GroupContribution", path = "G/GroupContribution" }
 44adabc6-386d-4db0-bb6e-0f7b06129544 = { name = "SorptionModels", path = "S/SorptionModels" }
 74801b09-e2e4-4a34-8eef-872f1277eff9 = { name = "DilationApparatus", path = "D/DilationApparatus" }
 a9449b16-1c3f-48ab-aa2c-0b9c6d97beee = { name = "MembraneBase", path = "M/MembraneBase" }
