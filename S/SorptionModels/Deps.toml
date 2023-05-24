@@ -16,6 +16,9 @@ StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
 ["0.1.32-0"]
 Roots = "f2b01f46-fcfa-551c-844a-d8ac1e96c665"
 
+["0.1.38-0"]
+Polynomials = "f27b6e38-b328-58d1-80ce-0feddd5e7a45"
+
 ["0.1.6-0"]
 DelimitedFiles = "8bb1440f-4735-579b-a4ab-409b98df4dab"
 XLSX = "fdbf4ff8-1666-58a4-91e7-1b58723a45e0"
