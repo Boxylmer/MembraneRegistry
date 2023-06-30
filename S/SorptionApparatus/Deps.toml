@@ -8,5 +8,8 @@ XLSX = "fdbf4ff8-1666-58a4-91e7-1b58723a45e0"
 ["0.2.19-0"]
 ProgressMeter = "92933f4c-e287-5a05-a399-4b506db050ca"
 
-["0.2.5-0"]
+["0.2.25-0"]
+Setfield = "efcf1570-3423-57d1-acb7-fd33fddbac46"
+
+["0.2.5-0.2.24"]
 LocalRegistry = "89398ba2-070a-4b16-a995-9893c55d93cf"
