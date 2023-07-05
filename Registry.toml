@@ -10,3 +10,4 @@ description = ""
 74801b09-e2e4-4a34-8eef-872f1277eff9 = { name = "DilationApparatus", path = "D/DilationApparatus" }
 a9449b16-1c3f-48ab-aa2c-0b9c6d97beee = { name = "MembraneBase", path = "M/MembraneBase" }
 c53a909a-c477-4ff1-81c4-bc1440289f4f = { name = "SorptionApparatus", path = "S/SorptionApparatus" }
+c833957c-4f51-4127-86d5-ee4440407064 = { name = "GasSorptionApparatusGUI", path = "G/GasSorptionApparatusGUI" }
